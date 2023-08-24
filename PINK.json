@@ -148,7 +148,7 @@
     "background": {
         "blur": 0.1,
         "url": "https://i.imgur.com/b99wiFE.jpg",
-        "alpha": 0.7
+        "alpha": 2.0
     },
     "color": "#ff91ff"
 }
