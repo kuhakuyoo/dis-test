@@ -146,9 +146,11 @@
         "BLUE_700":                     "#8f5971"
     },
     "background": {
-        "blur": 0.3,
+        "blur": 0.0,
         "url": "https://i.imgur.com/uKSRUN3.jpg",
-        "alpha": 0.8
+        "alpha": 1
+        "brightness": 0.5
+        
     },
     "color": "#ff91ff"
 }
