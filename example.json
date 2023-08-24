@@ -15,7 +15,7 @@
 		"alpha": "0.69"
 	},
 	"theme_color_map": {
-		"KEYBOARD": ["#000000", "#FFFFFF"],
+		"KEYBOARD": ["#00FF00", "#FFFFFF"],
 		"BACKGROUND_PRIMARY": ["#005500", "#FFFFFF"],
 		"BACKGROUND_SECONDARY": ["#000000", "#FFFFFF"],
 		"BACKGROUND_SECONDARY_ALT": ["#000000", "#FFFFFF"],
