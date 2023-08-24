@@ -4,8 +4,8 @@
   "version": "1.4",
   "authors": [
     {
-      "name": "mortyick",
-      "id": "705853948052897813"
+      "name": "KUHAKU.Y",
+      "id": "0000000000000"
     }
   ],
   "theme_color_map": {
@@ -152,7 +152,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": "https://raw.githubusercontent.com/Mortyick/enmity-themes/main/background/backgruundig.png",
+    "url": "https://i.imgur.com/QlaT4JQ.png",
     "alpha": 1.0
   }
 }
