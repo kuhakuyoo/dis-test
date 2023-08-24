@@ -10,11 +10,11 @@
   ],
   "theme_color_map": {
     "HEADER_PRIMARY": [
-      "#60668b",
+      "#000000",
       "#23232d"
     ],
     "HEADER_SECONDARY": [
-      "#d68c9e",
+      "#000000",
       "#3d4858"
     ],
     "TEXT_NORMAL": [
@@ -42,19 +42,19 @@
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
-      "#292538",
+      "#000000",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#292538",
+      "#000000",
       "#f2f3f5"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#292538",
+      "#000000",
       "#ebedef"
     ],
     "BACKGROUND_TERTIARY": [
-      "#2d2a3c",
+      "#000000",
       "#e3e5e8"
     ],
     "BACKGROUND_ACCENT": [
@@ -66,15 +66,15 @@
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#211f2a",
+      "#000000",
       "#f8f9f9"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#292538",
+      "#000000",
       "#ffffff"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#292538",
+      "#000000",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
