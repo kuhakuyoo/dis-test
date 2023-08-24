@@ -146,9 +146,9 @@
         "BLUE_700":                     "#8f5971"
     },
     "background": {
-        "blur": 0.1,
+        "blur": 0.6,
         "url": "https://i.imgur.com/b99wiFE.jpg",
-        "alpha": 2.0
+        "alpha": 0.6
     },
     "color": "#ff91ff"
 }
